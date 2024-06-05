@@ -1,3 +1,3 @@
 # favorite food
 
-kuwagata
+kabutomushi
